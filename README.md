@@ -60,6 +60,6 @@ I enjoy solving complex problems and writing efficient, well-structured code, wh
 - **Algorithmic Challenges**: Improving my problem-solving skills with data structures and algorithm challenges.
 
 ## 📫 Let's Connect!
-- 🔗 [GitHub Profile](https://linkedin.com/in/kevin-mooney-021052434)
+- 🔗 [LinkedIn Profile](https://linkedin.com/in/kevin-mooney-021052434)
 - 📧 [kmooney@student.42berlin.de]
     
