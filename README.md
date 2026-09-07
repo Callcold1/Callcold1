@@ -29,7 +29,7 @@ I enjoy solving complex problems and writing efficient, well-structured code, wh
 
 ## 🚀 What I’ve been working on
 
-* **ft_transcendence — Dicteé**: A collaborative full-stack multiplayer language-learning platform where children practise vocabulary through real-time, parent-supervised word games. Built with **Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Socket.IO, Docker, and NGINX**. My work focused particularly on **Word Soup, player session management, WebSocket-based gameplay, and multiplayer/remote-player functionality**.
+* **ft_transcendence — Dicteé**: A collaborative full-stack multiplayer language-learning platform where children practise vocabulary through real-time, parent-supervised word games. Built with **Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Socket.IO, Docker, and NGINX**. My work focused particularly on **Word Soup, WebSocket-based gameplay, and multiplayer/remote-player functionality**.
 * **Web Server in C++**: Building a **non-blocking HTTP server from scratch**, working with sockets, event-driven I/O, HTTP request/response handling, connection management, and chunked transfer encoding.
 * **Containerisation & DevOps**: Deploying and orchestrating services using **Docker** and **Docker Compose**, including **NGINX, MariaDB, and WordPress**.
 * **Unix & Networking**: Exploring system-level programming, socket communication, process management, and event-driven architectures.
